@@ -1,0 +1,13 @@
+html {
+    background-color: #457B9D;
+}
+
+body {
+    background-color: #A8DADC;
+    text-align: center;
+    font-family: Karla;
+}
+ul, ol {
+    list-style-position: inside;
+    display:contents
+}
